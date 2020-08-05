@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+## 周伟伟/18914163308
 
-You can use the [editor on GitHub](https://github.com/semizhou/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 个人信息
+- 周伟伟/男/1985年
+- 本科/郑州大学/数学与应用数学（2003-2007）
+- 手机：18914163308
+- 邮箱：18914163308@189.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 工作经历
+- 2009.11 – 2011.7		 无锡米高科技       java程序员
+- 2011.07 – 至今         无锡中卫信软件     部门副经理
 
-### Markdown
+## 工作内容
+- 项目管理
+    - 负责招投标技术方案的编写
+    - 负责项目前期的需求调研、概要设计
+    - 负责项目的进度推进，包括研发、测试、项目实施计划的安排
+    - 负责项目后期的验收
+- 技术方面
+    - 负责项目基础框架的搭建,常见框架的集成
+    - 负责项目研发过程中技术难点的解决
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 专业技能
+- 熟练使用Linux操作系统
+- 熟练使用Oracle、MySQL、Sql Server关系型数据库
+- 熟练使用Redis、Mongodb、Hbase、Hive、Elasticsearch等非关系型数据库；
+- 熟悉JAVA EE规范，熟练使用Jsf、Spring、Hibernate、Mybatis、Activiti、Dubbo等常用框架
+- 熟练使用Kafka、Active MQ等消息中间件
+- 熟练使用jquery、vue前端框架
+- 熟练使用Axure等原型图设计工具
+- 熟练使用Kettle等ETL工具使用
+- 具有PMP项目管理证书
 
-```markdown
-Syntax highlighted code block
+## 项目经验
+- 国家爱国卫生平台（2013年 ~ 2014年）
+    - 角色：研发组长
+    - 工作内容：负责项目的基础框架搭建，核心模块的研发
+- 姑苏区疾控管理综合平台（2014年 ~ 2015年）
+    - 角色：研发组长
+    - 工作内容：
+        - 负责项目的基础框架搭建，核心模块的研发
+        - 负责各子系统的设计
+- 江苏省血吸虫病防治管理平台（2015年 ~ 2018年）
+    - 角色：项目经理
+    - 工作内容：
+        - 负责招投标技术方案的编写
+        - 负责项目前期的需求调研、概要设计、系统的详细设计
+        - 负责项目的进度推进，包括研发、测试、项目实施计划的安排
+        - 负责项目后期的验收
+- 天津市爱国卫生信息管理平台（2017年11月 ~ 2018年10月）
+    - 角色：项目经理
+    - 工作内容：
+        - 负责招投标技术方案的编写
+        - 负责项目前期的需求调研、概要设计、系统的详细设计
+        - 负责项目的进度推进，包括研发、测试、项目实施计划的安排
+        - 负责项目后期的验收
+- 江苏省预防接种信息管理平台（2018年11月 至今 ）
+    - 角色：项目经理
+    - 工作内容：
+        - 负责子系统的详细设计
+        - 负责项目的进度推进，包括研发、测试、项目实施计划的安排
+- 育苗通 （2020年6月 至今）
+    - 角色：项目经理
+    - 工作内容：
+        - 负责后端的详细设计，前端的设计评审
+        - 负责项目的进度推进，包括研发、测试、项目实施计划的安排
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/semizhou/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
